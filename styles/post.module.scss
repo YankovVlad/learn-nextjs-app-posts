@@ -1,0 +1,21 @@
+.link {
+  padding: 1rem;
+  border-radius: 4px;
+  border: 1px solid black;
+  text-decoration: none;
+  color: black;
+  transition: all 0.3s ease;
+  &:hover {
+    background-color: black;
+    color: white;
+  }
+}
+.text {
+  margin: 0;
+  margin-bottom: 2rem;
+  
+}
+.link_item {
+  margin-top: 1rem;
+ 
+}
